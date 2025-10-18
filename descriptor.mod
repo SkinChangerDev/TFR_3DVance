@@ -3,4 +3,7 @@ tags={
 	"Graphics"
 }
 name="The Fire Rises: 3D Vance"
+dependencies={
+	"The Fire Rises"
+}
 supported_version="1.16.10"
